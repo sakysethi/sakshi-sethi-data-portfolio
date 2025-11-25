@@ -8,7 +8,6 @@
 
 ![Tools](https://img.shields.io/badge/Tools-SQL%20|%20Python%20|%20Power%20BI%20|%20Excel-green?style=flat-square)
 
-![Status](https://img.shields.io/badge/Portfolio-In%20Progress-yellow?style=flat-square)
 
 Welcome to my **Data Analytics Portfolio**, a curated collection of real-world analytics projects built using  
 **SQL, Python, Power BI, and Excel**.
