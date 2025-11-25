@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/A_header_banner_image_for_Sakshi_Sethi's_Data_Port.png" width="100%">
+  <img src="assets/images/header.png" width="100%">
 </p>
 
 # 📊 Sakshi Sethi — Data Portfolio
