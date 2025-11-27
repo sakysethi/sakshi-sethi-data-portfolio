@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/header.png" width="100%">
+  <img src="assets/images/header.png" width="50%">
 </p>
 
 # 📊 Sakshi Sethi — Data Portfolio
