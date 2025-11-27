@@ -72,6 +72,6 @@ This portfolio demonstrates my ability to:
 
 ## 📬 Contact
 
-**LinkedIn:** https://www.linkedin.com/in/sakysethi/
+**LinkedIn:** https://www.linkedin.com/in/sakysethi/ || 
 **Email:** sakysethi@gmail.com
 
