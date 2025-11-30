@@ -25,15 +25,17 @@ mysql -u <user> -p bubble_tea_shop < seed_data.sql
 3. Run queries from analysis_queries.sql.
 Run queries from analysis_queries.sql.
 
-📊 Key Skills Demonstrated
-Multi-table JOINs
-GROUP BY + aggregations
-Revenue calculations
-Customer behavior analysis
-Fact/dimension schema design
-⭐ Insights (from the dataset)
-Milk Tea drinks generate the most revenue and are ordered most frequently.
-Tapioca Pearls are the most commonly added topping.
-Medium and Large drinks contribute more to revenue than Small sizes.
-Repeat customers (especially loyalty members) contribute a large share of total orders.
-Peak ordering times are between 2 PM and 7 PM, useful for staff planning.
+## 📊 Key Skills Demonstrated
+- Multi-table JOINs  
+- GROUP BY + aggregations  
+- Revenue calculations  
+- Customer behavior analysis  
+- Fact/dimension schema design  
+
+## ⭐ Insights (from the dataset)
+- **Milk Tea drinks** generate the most revenue and appear most frequently in orders.  
+- **Tapioca Pearls** are the most commonly added topping across all items.  
+- **Medium and Large sizes** contribute more to total revenue than Small sizes.  
+- **Repeat customers**, especially loyalty members, account for a significant portion of orders.  
+- **Peak ordering times** occur between **2 PM and 7 PM**, helpful for staffing and inventory planning.
+
