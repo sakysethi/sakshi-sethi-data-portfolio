@@ -1,5 +1,14 @@
 # 📦 E-commerce Funnel & Customer Journey Analysis (SQL-Only)
 
+# E-commerce Funnel & Customer Journey Analysis (SQL-Only)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Top language](https://img.shields.io/github/languages/top/sakysethi/sakshi-sethi-data-portfolio)](https://github.com/sakysethi/sakshi-sethi-data-portfolio)
+[![Last commit](https://img.shields.io/github/last-commit/sakysethi/sakshi-sethi-data-portfolio/main)](https://github.com/sakysethi/sakshi-sethi-data-portfolio)
+
+**Tech:** MySQL / SQL — Seed data + analysis queries + README + PDF report
+
+
 A complete SQL-only analytics project analyzing how customers move through an e-commerce website funnel — **Home → Product → Cart → Checkout → Order** — and uncovering insights about conversion, devices, traffic sources, revenue, and customer behavior.
 
 This project demonstrates real-world SQL skills used in e-commerce analytics.
