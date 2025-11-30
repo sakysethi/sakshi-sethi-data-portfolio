@@ -1,7 +1,5 @@
 # 📦 E-commerce Funnel & Customer Journey Analysis (SQL-Only)
 
-# E-commerce Funnel & Customer Journey Analysis (SQL-Only)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Top language](https://img.shields.io/github/languages/top/sakysethi/sakshi-sethi-data-portfolio)](https://github.com/sakysethi/sakshi-sethi-data-portfolio)
 [![Last commit](https://img.shields.io/github/last-commit/sakysethi/sakshi-sethi-data-portfolio/main)](https://github.com/sakysethi/sakshi-sethi-data-portfolio)
