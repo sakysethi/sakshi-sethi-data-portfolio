@@ -17,13 +17,16 @@ A simple, beginner-friendly SQL project analyzing customer orders, drink prefere
 - OrderItemToppings  
 
 ## 🚀 How to Run
-1. Create schema  
-   ```bash
+1. Create schema
+   ```  
    mysql -u <user> -p < schema.sql
+   ```
 2. Insert data
-mysql -u <user> -p bubble_tea_shop < seed_data.sql
+ ```
+   mysql -u <user> -p bubble_tea_shop < seed_data.sql
+```
 3. Run queries from analysis_queries.sql.
-Run queries from analysis_queries.sql.
+
 
 ## 📊 Key Skills Demonstrated
 - Multi-table JOINs  
